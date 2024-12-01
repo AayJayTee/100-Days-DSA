@@ -1,3 +1,5 @@
+// Q. Solve the "find all elements that appear more than once in an array" problem.
+
 #include <iostream>
 using namespace std;
 
